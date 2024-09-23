@@ -7,7 +7,6 @@ from gi.repository import Gtk, Graphene
 
 
 APP_NAME = "PrecisionBarrage"
-SCALE = 0
 
 
 class Line():
